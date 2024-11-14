@@ -49,3 +49,24 @@
     font-style: normal;
 }
 
+.contacto {
+    background-color: #f8f9fa; /* Color de fondo claro */
+    padding: 60px 0; /* Espaciado vertical */
+  }
+  
+  .contacto h2 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .contacto .form-control {
+    border-radius: 0.25rem;
+  }
+  
+  .contacto .btn {
+    font-size: 18px;
+    padding: 10px 20px;
+  }
+
