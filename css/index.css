@@ -1,0 +1,51 @@
+.cover {
+  background: url('img/cover.jpg') no-repeat center center;
+  background-size: cover;
+  width: 100%;
+  min-height: 100vh; /* Asegura que el main ocupe al menos la altura de la ventana */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.cover-head {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 60px;
+}
+
+.b-head {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 30px;
+    margin: 10px 0;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.logo {
+  width: 60px;
+  height: auto;
+}
+
+.links {
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.titulos {
+    font-size: 50px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
